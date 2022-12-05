@@ -1,1 +1,1 @@
-this is my new repository on Github
+thực hành tạo git của Thén
